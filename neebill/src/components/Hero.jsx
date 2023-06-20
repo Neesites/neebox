@@ -35,8 +35,8 @@ const Hero = () => (
           alt="router"
           className="w-[100%] h-[100%] relative z-[5]"
         />
-        <div className="absolute z[0] w-[40%] h-[35%] pink__gradient" />
-        <div className="absolute z[1] w-[40%] rounded-full h-[55%] white__gradient" />
+        <div className="absolute z[0] w-[40%] h-[5%] pink__gradient" />
+        <div className="absolute z[1] w-[20%] rounded-full h-[5%] white__gradient" />
         <div className="absolute z[2] w-[50%] h-[15%] blue__gradient" />
       </div>
     </div>

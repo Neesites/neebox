@@ -19,18 +19,22 @@ export const navLinks = [
   {
     id: "home",
     title: "Home",
+    link: "https://neesites.co.ke",
   },
   {
     id: "features",
     title: "Features",
+    /* link: "https://neesites.co.ke/features", */
   },
   {
     id: "product",
     title: "Product",
+    /*link: "https://neesites.co.ke", */
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "documentation",
+    title: "Docs",
+    /* link: "https://neesites.co.ke", */
   },
 ];
 
@@ -109,23 +113,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://www.neesites.co.ke/content/",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "https://www.neesites.co.ke/how-it-works/",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "https://www.neesites.co.ke/create/",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://www.neesites.co.ke/explore/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://www.neesites.co.ke/terms-and-services/",
       },
     ],
   },
@@ -134,23 +138,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://www.neesites.co.ke/help-center/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://www.neesites.co.ke/partners/",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://www.neesites.co.ke/suggestions/",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://www.neesites.co.ke/blog/",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://www.neesites.co.ke/newsletters/",
       },
     ],
   },
@@ -159,11 +163,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://www.neesites.co.ke/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://www.neesites.co.ke/become-a-partner/",
       },
     ],
   },
@@ -173,23 +177,23 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/neesites",
   },
-  {
+  /*  {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/neesites",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
-  },
+    link: "https://www.twitter.com/neesites",
+  }, 
   {
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/",
-  },
+  }, */
 ];
 
 export const clients = [
